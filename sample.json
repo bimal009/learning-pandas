@@ -1,0 +1,62 @@
+[
+  {
+    "Order ID": 1001,
+    "Date": "2024-06-01",
+    "Customer Name": "Alice Johnson",
+    "Region": "North",
+    "Product": "Laptop",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "Unit Price": 1200,
+    "Total Price": 1200,
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Order ID": 1002,
+    "Date": "2024-06-01",
+    "Customer Name": "Bob Smith",
+    "Region": "South",
+    "Product": "Smartphone",
+    "Category": "Electronics",
+    "Quantity": 2,
+    "Unit Price": 700,
+    "Total Price": 1400,
+    "Payment Method": "PayPal"
+  },
+  {
+    "Order ID": 1003,
+    "Date": "2024-06-02",
+    "Customer Name": "Carla Gomez",
+    "Region": "West",
+    "Product": "Desk Chair",
+    "Category": "Furniture",
+    "Quantity": 3,
+    "Unit Price": 150,
+    "Total Price": 450,
+    "Payment Method": "Bank Transfer"
+  },
+  {
+    "Order ID": 1004,
+    "Date": "2024-06-03",
+    "Customer Name": "Dan Brown",
+    "Region": "East",
+    "Product": "Notebook",
+    "Category": "Stationery",
+    "Quantity": 5,
+    "Unit Price": 3,
+    "Total Price": 15,
+    "Payment Method": "Credit Card"
+  },
+  {
+    "Order ID": 1005,
+    "Date": "2024-06-04",
+    "Customer Name": "Emma White",
+    "Region": "North",
+    "Product": "Monitor",
+    "Category": "Electronics",
+    "Quantity": 1,
+    "Unit Price": 300,
+    "Total Price": 300,
+    "Payment Method": "PayPal"
+  }
+]
