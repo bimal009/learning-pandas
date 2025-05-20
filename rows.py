@@ -14,4 +14,4 @@ data=pd.read_csv("output.csv",encoding="latin1")
 
 # print(data[["age","name"]])
 # print(data[data["age"]>20])
-print(data[(data["age"]>20) & (data["age"]<40) ])
+# print(data[(data["age"]>20) & (data["age"]<40) ])
